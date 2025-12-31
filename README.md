@@ -10,8 +10,8 @@ Agent-Controller is the main controller software for TechOnIt IoT boards.
 It manages multiple node agents and communicates with the server via MQTT.
 
 ## Dependencies
-- [agent-node](https://github.com/org/agent-node) for node management
-- [agent-sdk](https://github.com/org/agent-sdk) for shared protocols, MQTT, and authentication
+- [agent-node](https://github.com/TechOnIt/agent-node) for node management
+- [agent-sdk](https://github.com/TechOnIt/agent-sdk) for shared protocols, MQTT, and authentication
 
 ## Features
 - Register and monitor node agents
